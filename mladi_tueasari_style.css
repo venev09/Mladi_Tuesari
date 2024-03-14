@@ -1,10 +1,17 @@
-#HiToGoodbye{
+button{
+    background-color: hsl(211, 72%, 70%);
     border-radius: 5px;
-    background-color: hsl(271, 55%, 60%);
-    font-size:3em;
+    font-size:1.5em;
     color:white;
 }
 
-#HiToGoodbye:hover{
-    background-color: hsl(271, 87%, 58%);
+button:hover{
+    background-color: rgb(101, 101, 255);
+}
+
+div{
+    display:block;
+    height: 100px;
+    width: 150px;
+    border: 2px solid black;
 }
