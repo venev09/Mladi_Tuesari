@@ -7,7 +7,7 @@
     background-color: hsl(211, 72%, 70%); 
     overflow: hidden;
     font-size:1.5em;
-    background-image:url("Clouds-Meet-The-Sea-AI-Generated-4K-Wallpaper-jpg\ \(1\)\ \(1\).webp");
+
 }
 
 .navbar a{
@@ -25,4 +25,9 @@
 
 .navbar li{
     float: left;
+}
+
+video{
+    height: 300px;
+    
 }
