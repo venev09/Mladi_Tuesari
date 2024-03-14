@@ -3,7 +3,7 @@
 .navbar ul{
     list-style-type: none;
     padding: 5px;
-    margin 0px;
+    margin: 0px;
     background-color: hsl(211, 72%, 70%); 
     overflow: hidden;
     font-size:1.5em;
