@@ -1,4 +1,6 @@
-
+body {
+    background-color: white;
+}
 
 .navbar ul{
     list-style-type: none;
@@ -7,7 +9,7 @@
     background-color: hsl(211, 72%, 70%); 
     overflow: hidden;
     font-size:1.5em;
-    background-image:url("Clouds-Meet-The-Sea-AI-Generated-4K-Wallpaper-jpg\ \(1\)\ \(1\).webp");
+    border-radius: 5px;
 }
 
 .navbar a{
@@ -20,7 +22,7 @@
 }
 
 .navbar a:hover{
-    background-color: rgba(0, 0, 0, 0.271);
+    background-color: hsla(0, 0%, 0%, 0.271);
 }
 
 .navbar li{
