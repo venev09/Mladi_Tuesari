@@ -1,10 +1,28 @@
-#HiToGoodbye{
-    border-radius: 5px;
-    background-color: hsl(271, 55%, 60%);
-    font-size:3em;
-    color:white;
+
+
+.navbar ul{
+    list-style-type: none;
+    padding: 5px;
+    margin 0px;
+    background-color: hsl(211, 72%, 70%); 
+    overflow: hidden;
+    font-size:1.5em;
+    background-image:url("Clouds-Meet-The-Sea-AI-Generated-4K-Wallpaper-jpg\ \(1\)\ \(1\).webp");
 }
 
-#HiToGoodbye:hover{
-    background-color: hsl(271, 87%, 58%);
+.navbar a{
+    margin: 0px;
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align:center;
+}
+
+.navbar a:hover{
+    background-color: rgba(0, 0, 0, 0.271);
+}
+
+.navbar li{
+    float: left;
 }
