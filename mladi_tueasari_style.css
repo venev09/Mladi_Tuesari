@@ -1,0 +1,10 @@
+#HiToGoodbye{
+    border-radius: 5px;
+    background-color: hsl(271, 55%, 60%);
+    font-size:3em;
+    color:white;
+}
+
+#HiToGoodbye:hover{
+    background-color: hsl(271, 87%, 58%);
+}
